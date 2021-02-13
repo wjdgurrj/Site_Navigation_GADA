@@ -26,7 +26,7 @@ GADA는 사용자의 음성을 인식하여 원하는 페이지로 쉽게 이동
 
 > [백혜민](https://github.com/HyeminBaek) ☞ 아이디어 기획,유스케이스 시나리오 및 다이어그램 작성, 클래스 다이어그램 
 
-> [이정혁](https://github.com/wjdgurrj) ☞ 아이디어 기획
+> [이정혁](https://github.com/wjdgurrj) ☞ 아이디어 기획, server, DB 
 
 ## 2. 프로젝트 소개
 ✔ 기능
